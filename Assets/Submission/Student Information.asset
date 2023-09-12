@@ -16,6 +16,13 @@ MonoBehaviour:
   firstName: Chukwuebuka
   ID: ca539
   Username: cachebe
-  repoURL: https://github.com/cachebe/AR-VR/blob/main/H-Geometry
-  videoURL: 
-  workSummary: 
+  repoURL: https://github.com/cachebe/h-geometry.git
+  videoURL: https://drive.google.com/file/d/1MWknG4mTt3YmhmyY-DdT1djMSVpl6gRW/view?usp=sharing
+  workSummary: I started by trying to understand desired outcome and all the associated
+    constraints. I then implemented 3x3 matrix rotation and quaternion rotation based
+    on the input angles. I then performed vertex transformations for both ratation
+    methods. My major challenges involved using the custom rotation methods required
+    for this assigments, instead of unity's built in methods. I also had issues with
+    correctly determining the player direction and had to switch the code for my
+    directional color effect to get the correct colors in front and behind of the
+    player. Overall, this was a challenging but satisfying assignment to complete.
